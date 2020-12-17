@@ -20,10 +20,7 @@ namespace CodeWars
                     return false;
                 }
             }
-
             return false;
-
-
         }
     }
 }

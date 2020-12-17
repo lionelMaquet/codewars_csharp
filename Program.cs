@@ -6,7 +6,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("See all of my code wars solutions in the 'solutions' directory");
         }
     }
 }

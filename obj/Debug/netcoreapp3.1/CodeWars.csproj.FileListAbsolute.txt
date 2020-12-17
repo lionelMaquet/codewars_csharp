@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.exe
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.deps.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.dev.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfo.cs
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.genruntimeconfig.cache
