@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
+// https://www.codewars.com/kata/55f8a9c06c018a0d6e000132
 public class Kata
 {
     static public void Main()

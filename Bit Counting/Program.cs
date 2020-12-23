@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
 
+// https://www.codewars.com/kata/526571aae218b8ee490006f4
+
 public class Kata
 {
     public static void Main()

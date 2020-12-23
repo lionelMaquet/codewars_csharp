@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+// https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 namespace Find_the_parity_outlier
 {

@@ -1,12 +1,17 @@
-﻿using System;
+﻿
+// https://www.codewars.com/kata/541c8630095125aba6000c00
 
-namespace Sum_of_digits_Digital_root
+public class Number
 {
-    class Program
+    public int DigitalRoot(long n)
     {
-        static void Main(string[] args)
+        long num = n;
+        long total = 0;
+        while (num != 0)
         {
-            Console.WriteLine("Hello World!");
+            total += num % 10;
+            num /= 10;
         }
+        return total < 10 ? (int)total : DigitalRoot(total);
     }
 }

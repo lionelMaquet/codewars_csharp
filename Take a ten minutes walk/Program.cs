@@ -1,5 +1,7 @@
 ﻿using System.Linq;
 
+// https://www.codewars.com/kata/54da539698b8a2ad76000228
+
 public class Kata
 {
     public static bool IsValidWalk(string[] walk)
