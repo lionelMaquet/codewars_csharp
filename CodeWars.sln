@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the parity outlier", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take a ten minutes walk", "Take a ten minutes walk\Take a ten minutes walk.csproj", "{C7024BDB-7B97-4659-98B6-60B40BA5B0A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of digits Digital root", "Sum of digits Digital root\Sum of digits Digital root.csproj", "{5A27A0E2-2FB9-410D-855D-26909B4DE205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C7024BDB-7B97-4659-98B6-60B40BA5B0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7024BDB-7B97-4659-98B6-60B40BA5B0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7024BDB-7B97-4659-98B6-60B40BA5B0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A27A0E2-2FB9-410D-855D-26909B4DE205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A27A0E2-2FB9-410D-855D-26909B4DE205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A27A0E2-2FB9-410D-855D-26909B4DE205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A27A0E2-2FB9-410D-855D-26909B4DE205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
