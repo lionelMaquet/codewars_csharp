@@ -1,14 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 // link : https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/csharp
-
-namespace Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times
+public class Kata
 {
-    class Program
+    public static int[] DeleteNth(int[] arr, int x)
     {
-        static void Main(string[] args)
+        List<int> newArray = new List<int>();
+
+        foreach(int num in arr)
         {
-            Console.WriteLine("Hello World!");
+            if (newArray.FindAll(y => y == num).Count() < x)
+            {
+                newArray.Add(num);
+            }
         }
+
+        return newArray.ToArray();
     }
 }
