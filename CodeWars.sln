@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert string to camel cas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delete occurrences of an element if it occurs more than n times", "Delete occurrences of an element if it occurs more than n times\Delete occurrences of an element if it occurs more than n times.csproj", "{1D86765A-0520-4E6C-89AD-17D19EC4A7D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greed Is Good", "Greed Is Good\Greed Is Good.csproj", "{382C4A97-F369-4DF0-AA4B-A6F56190E652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greed Is Good", "Greed Is Good\Greed Is Good.csproj", "{382C4A97-F369-4DF0-AA4B-A6F56190E652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique In Order", "Unique In Order\Unique In Order.csproj", "{4C6BA641-6815-4961-97A9-CD1D08D192C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{382C4A97-F369-4DF0-AA4B-A6F56190E652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382C4A97-F369-4DF0-AA4B-A6F56190E652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382C4A97-F369-4DF0-AA4B-A6F56190E652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
