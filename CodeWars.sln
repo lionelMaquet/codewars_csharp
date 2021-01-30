@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delete occurrences of an el
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greed Is Good", "Greed Is Good\Greed Is Good.csproj", "{382C4A97-F369-4DF0-AA4B-A6F56190E652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique In Order", "Unique In Order\Unique In Order.csproj", "{4C6BA641-6815-4961-97A9-CD1D08D192C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unique In Order", "Unique In Order\Unique In Order.csproj", "{4C6BA641-6815-4961-97A9-CD1D08D192C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{9F3EB2E8-15EB-4629-88E4-16E989E18F9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C6BA641-6815-4961-97A9-CD1D08D192C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3EB2E8-15EB-4629-88E4-16E989E18F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3EB2E8-15EB-4629-88E4-16E989E18F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3EB2E8-15EB-4629-88E4-16E989E18F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3EB2E8-15EB-4629-88E4-16E989E18F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
