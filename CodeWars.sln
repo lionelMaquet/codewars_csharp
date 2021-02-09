@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scramblies", "Scramblies\Sc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert PascalCase string into snake_case", "Convert PascalCase string into snake_case\Convert PascalCase string into snake_case.csproj", "{DB1BC8AF-0206-4FB9-8701-0E1E57829125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twice linear", "Twice linear\Twice linear.csproj", "{482B27AA-2FC4-4491-AE37-EA745896F164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twice linear", "Twice linear\Twice linear.csproj", "{482B27AA-2FC4-4491-AE37-EA745896F164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First non-repeating character", "First non-repeating character\First non-repeating character.csproj", "{7AECC0A0-2056-4A56-8519-358FCBF5620E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{482B27AA-2FC4-4491-AE37-EA745896F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482B27AA-2FC4-4491-AE37-EA745896F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482B27AA-2FC4-4491-AE37-EA745896F164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AECC0A0-2056-4A56-8519-358FCBF5620E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AECC0A0-2056-4A56-8519-358FCBF5620E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AECC0A0-2056-4A56-8519-358FCBF5620E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AECC0A0-2056-4A56-8519-358FCBF5620E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
