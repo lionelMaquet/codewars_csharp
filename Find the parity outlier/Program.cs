@@ -10,7 +10,6 @@ namespace Find_the_parity_outlier
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static int Find(int[] integers)

@@ -7,7 +7,6 @@ namespace Scramblies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static bool Scramble(string str1, string str2)

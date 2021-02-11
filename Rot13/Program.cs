@@ -31,13 +31,12 @@ namespace Rot13
                     char chatToAdd = indexOfCharInAlphabet != -1 ? (char.IsUpper(c) ? char.ToUpper(alphabet[rot13Index]) : alphabet[rot13Index]) : c;
                     char charToAdd = char.IsUpper(c) ? char.ToUpper(alphabet[rot13Index]) : alphabet[rot13Index];
                     rot13.Add(charToAdd);
-                } 
+                }
 
                 else
                 {
                     rot13.Add(c);
                 }
-                
             }
 
             string rot13string = new string(rot13.ToArray());

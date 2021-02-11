@@ -5,7 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
     }
 
     public static IEnumerable<T> UniqueInOrder<T>(IEnumerable<T> iterable)
@@ -19,7 +18,6 @@ class Program
                 outlist.Add(e);
             }
         }
-       
         return outlist;
     }
 }

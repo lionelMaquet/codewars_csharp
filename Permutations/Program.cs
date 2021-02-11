@@ -10,7 +10,6 @@ namespace Permutations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static List<string> SinglePermutations(string s)
@@ -23,14 +22,6 @@ namespace Permutations
                 outlist.Add(s);
                 return outlist;
             }
-
-            else
-            {
-
-            }
-
-            
-            // Your code here!
             return null;
         }
     }

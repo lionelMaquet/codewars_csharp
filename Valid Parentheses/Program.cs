@@ -6,9 +6,7 @@ namespace Valid_Parentheses
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
-
         public static bool ValidParentheses(string input)
         {
             int validation = 0; 
@@ -32,9 +30,7 @@ namespace Valid_Parentheses
                         break;
                 }
             }
-
             return validation == 0;
-
         }
     }
 }

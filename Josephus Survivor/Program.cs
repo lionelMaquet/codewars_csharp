@@ -7,7 +7,6 @@ namespace Josephus_Survivor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             JosSurvivor(7, 3);
         }
 
