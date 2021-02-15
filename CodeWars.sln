@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rot13", "Rot13\Rot13.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "What's a Perfect Power anyway", "What's a Perfect Power anyway\What's a Perfect Power anyway.csproj", "{E18A1DA0-13A0-47F7-897A-5FB0E45CA791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Cola", "Double Cola\Double Cola.csproj", "{0B9C405A-898A-4AE9-AB92-B9797248541C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Double Cola", "Double Cola\Double Cola.csproj", "{0B9C405A-898A-4AE9-AB92-B9797248541C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Solution Validator", "Sudoku Solution Validator\Sudoku Solution Validator.csproj", "{38C036F6-44CE-453A-B34D-0693D8B72DCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{0B9C405A-898A-4AE9-AB92-B9797248541C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9C405A-898A-4AE9-AB92-B9797248541C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9C405A-898A-4AE9-AB92-B9797248541C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C036F6-44CE-453A-B34D-0693D8B72DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C036F6-44CE-453A-B34D-0693D8B72DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C036F6-44CE-453A-B34D-0693D8B72DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C036F6-44CE-453A-B34D-0693D8B72DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
