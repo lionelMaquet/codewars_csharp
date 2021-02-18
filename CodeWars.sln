@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku Solution Validator",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Exctraction", "Range Exctraction\Range Exctraction.csproj", "{4685B603-B561-4FB1-94DD-D597E9AA79ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spoonerize Me", "Spoonerize Me\Spoonerize Me.csproj", "{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{4685B603-B561-4FB1-94DD-D597E9AA79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4685B603-B561-4FB1-94DD-D597E9AA79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4685B603-B561-4FB1-94DD-D597E9AA79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
