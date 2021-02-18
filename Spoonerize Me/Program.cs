@@ -6,7 +6,7 @@ namespace Spoonerize_Me
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Spoonerize("pop corn"));
         }
 
         public static string Spoonerize(string str)
