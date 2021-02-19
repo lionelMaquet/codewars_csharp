@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Exctraction", "Range 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spoonerize Me", "Spoonerize Me\Spoonerize Me.csproj", "{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportation on vacation", "Transportation on vacation\Transportation on vacation.csproj", "{A4C5684B-5754-41E7-88D0-3877290E4C0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6387EAAB-034E-4920-B7EF-E3C6CC0C2E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C5684B-5754-41E7-88D0-3877290E4C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C5684B-5754-41E7-88D0-3877290E4C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C5684B-5754-41E7-88D0-3877290E4C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C5684B-5754-41E7-88D0-3877290E4C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
