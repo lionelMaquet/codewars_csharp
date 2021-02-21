@@ -1,5 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
+// Status : done
+// link : https://www.codewars.com/kata/57eae65a4321032ce000002d/solutions/csharp
+// Best way would have been to use LINQ "Select" Method.
 
 namespace Fake_Binary
 {
