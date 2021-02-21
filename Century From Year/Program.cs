@@ -8,5 +8,10 @@ namespace Century_From_Year
         {
             Console.WriteLine("Hello World!");
         }
+
+        public static int СenturyFromYear(int year)
+        {
+            return year % 100 == 0 ? year / 100 : (year / 100) + 1;
+        }
     }
 }

@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportation on vacation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century From Year", "Century From Year\Century From Year.csproj", "{E51E5B1D-698A-465C-82F4-9E406819A369}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake Binary", "Fake Binary\Fake Binary.csproj", "{DF17DD2F-9BA0-49E8-8C32-7C0AFB7ACA30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E51E5B1D-698A-465C-82F4-9E406819A369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E51E5B1D-698A-465C-82F4-9E406819A369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E51E5B1D-698A-465C-82F4-9E406819A369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF17DD2F-9BA0-49E8-8C32-7C0AFB7ACA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF17DD2F-9BA0-49E8-8C32-7C0AFB7ACA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF17DD2F-9BA0-49E8-8C32-7C0AFB7ACA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF17DD2F-9BA0-49E8-8C32-7C0AFB7ACA30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
