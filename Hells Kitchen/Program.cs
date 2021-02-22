@@ -8,7 +8,6 @@ namespace Hells_Kitchen
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string Gordon(string a)
