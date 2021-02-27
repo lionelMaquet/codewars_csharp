@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd Or Even", "Odd Or Even\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Descending Order", "Descending Order\Descending Order.csproj", "{F2250EEA-D275-4EEF-949F-CF50DD20FD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet War", "Alphabet War\Alphabet War.csproj", "{1A36CBF2-8097-49B7-BC8A-E5DA66FA0062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabet War", "Alphabet War\Alphabet War.csproj", "{1A36CBF2-8097-49B7-BC8A-E5DA66FA0062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average of numbers", "Average of numbers\Average of numbers.csproj", "{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{1A36CBF2-8097-49B7-BC8A-E5DA66FA0062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A36CBF2-8097-49B7-BC8A-E5DA66FA0062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A36CBF2-8097-49B7-BC8A-E5DA66FA0062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
