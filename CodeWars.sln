@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabet War", "Alphabet Wa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average of numbers", "Average of numbers\Average of numbers.csproj", "{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get the integers between two numbers", "Get the integers between two numbers\Get the integers between two numbers.csproj", "{2E3A78B7-29B3-4FD4-9124-CA75C33F7965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBF33545-74C8-41C0-B69A-BCEFA92B03B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3A78B7-29B3-4FD4-9124-CA75C33F7965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3A78B7-29B3-4FD4-9124-CA75C33F7965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3A78B7-29B3-4FD4-9124-CA75C33F7965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3A78B7-29B3-4FD4-9124-CA75C33F7965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
