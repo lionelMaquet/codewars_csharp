@@ -12,6 +12,9 @@ namespace The_old_switcheroo
 
         public static string Vowel2Index(string str)
         {
+            // this would have worked
+            // str.Select((val, pos) => "aeiou".Contains(val) ? ($"{pos + 1}") : $"{val}");
+
             List<string> switcheroo = new List<string>();
 
             for(int i = 0; i < str.Length; i++)
