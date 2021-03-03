@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get the integers between tw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The old switcheroo", "The old switcheroo\The old switcheroo.csproj", "{CEEEB662-D819-4D02-872F-0F9C80E98DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Negative", "Return Negative\Return Negative.csproj", "{1A528EA2-C47A-4847-B124-B2E9ACB6FC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return Negative", "Return Negative\Return Negative.csproj", "{1A528EA2-C47A-4847-B124-B2E9ACB6FC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is he gonna survive", "Is he gonna survive\Is he gonna survive.csproj", "{B00ACD13-EC52-498B-935B-DBC66E0517F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{1A528EA2-C47A-4847-B124-B2E9ACB6FC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A528EA2-C47A-4847-B124-B2E9ACB6FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A528EA2-C47A-4847-B124-B2E9ACB6FC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00ACD13-EC52-498B-935B-DBC66E0517F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00ACD13-EC52-498B-935B-DBC66E0517F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00ACD13-EC52-498B-935B-DBC66E0517F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00ACD13-EC52-498B-935B-DBC66E0517F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
