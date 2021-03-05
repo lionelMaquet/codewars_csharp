@@ -77,6 +77,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is he gonna survive", "Is h
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Strings", "Reversed Strings\Reversed Strings.csproj", "{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
