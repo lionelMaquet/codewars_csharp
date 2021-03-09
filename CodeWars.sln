@@ -75,15 +75,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return Negative", "Return N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is he gonna survive", "Is he gonna survive\Is he gonna survive.csproj", "{B00ACD13-EC52-498B-935B-DBC66E0517F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Strings", "Reversed Strings\Reversed Strings.csproj", "{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Strings", "Reversed Strings\Reversed Strings.csproj", "{B4FEC243-ED04-4972-9AA1-C2E0731CBF9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{2F3B2C6A-C39E-4AF9-8935-1A0A9AED14C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My head is at the wrong end", "My head is at the wrong end\My head is at the wrong end.csproj", "{D1647D7E-D6EE-4590-BAE1-03122DB5A785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "My head is at the wrong end", "My head is at the wrong end\My head is at the wrong end.csproj", "{D1647D7E-D6EE-4590-BAE1-03122DB5A785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites Attract", "Opposites Attract\Opposites Attract.csproj", "{DD6928B8-C9E7-4DB0-B02C-671897A76D66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposites Attract", "Opposites Attract\Opposites Attract.csproj", "{DD6928B8-C9E7-4DB0-B02C-671897A76D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubleton Number", "Doubleton Number\Doubleton Number.csproj", "{4D34A344-B751-44D0-8773-2E7148D6B347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doubleton Number", "Doubleton Number\Doubleton Number.csproj", "{4D34A344-B751-44D0-8773-2E7148D6B347}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drying Potatoes", "Drying Potatoes\Drying Potatoes.csproj", "{CFF674CD-E0B7-4977-923A-E27598D88019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do I get a bonus", "Do I get a bonus\Do I get a bonus.csproj", "{01575041-F0A3-4EFC-82EC-14324AD14CEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +259,14 @@ Global
 		{4D34A344-B751-44D0-8773-2E7148D6B347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D34A344-B751-44D0-8773-2E7148D6B347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D34A344-B751-44D0-8773-2E7148D6B347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF674CD-E0B7-4977-923A-E27598D88019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF674CD-E0B7-4977-923A-E27598D88019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF674CD-E0B7-4977-923A-E27598D88019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF674CD-E0B7-4977-923A-E27598D88019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01575041-F0A3-4EFC-82EC-14324AD14CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01575041-F0A3-4EFC-82EC-14324AD14CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01575041-F0A3-4EFC-82EC-14324AD14CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01575041-F0A3-4EFC-82EC-14324AD14CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
