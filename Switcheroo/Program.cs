@@ -6,7 +6,6 @@ namespace Switcheroo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }

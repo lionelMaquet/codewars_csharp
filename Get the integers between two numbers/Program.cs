@@ -8,7 +8,6 @@ namespace Get_the_integers_between_two_numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static int[] Range(int startNum, int endNum)

@@ -6,7 +6,6 @@ namespace What_s_a_Perfect_Power_anyway
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static (int, int)? IsPerfectPower(int n)

@@ -6,7 +6,6 @@ namespace Alphabet_War
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string AlphabetWar(string fight)

@@ -6,7 +6,6 @@ namespace Transportation_on_vacation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static int RentalCarCost(int d)

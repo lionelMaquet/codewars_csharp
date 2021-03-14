@@ -7,7 +7,6 @@ namespace Doubleton_Number
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static int Doubleton(int num)

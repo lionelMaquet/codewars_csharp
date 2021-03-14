@@ -8,7 +8,6 @@ namespace Sudoku_Solution_Validator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static bool ValidateSolution(int[][] board)

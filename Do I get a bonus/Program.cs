@@ -6,7 +6,6 @@ namespace Do_I_get_a_bonus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string bonus_time(int salary, bool bonus)

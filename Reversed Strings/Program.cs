@@ -6,7 +6,6 @@ namespace Reversed_Strings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string Solution(string str)

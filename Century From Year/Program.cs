@@ -6,7 +6,6 @@ namespace Century_From_Year
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static int СenturyFromYear(int year)

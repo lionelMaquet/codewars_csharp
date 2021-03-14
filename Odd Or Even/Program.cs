@@ -7,7 +7,6 @@ namespace Odd_Or_Even
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string OddOrEven(int[] array)
