@@ -91,11 +91,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do I get a bonus", "Do I ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invert Values", "Invert Values\Invert Values.csproj", "{5EEC34B2-6B10-47A5-AB5C-79CCD97029F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Of Positive", "Sum Of Positive\Sum Of Positive.csproj", "{74E3FB81-647E-4557-8DB1-5FA97C3EAFB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Of Positive", "Sum Of Positive\Sum Of Positive.csproj", "{74E3FB81-647E-4557-8DB1-5FA97C3EAFB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sums of parts", "Sums of parts\Sums of parts.csproj", "{012C36CB-EC3D-4377-98E1-633D8BDDF3B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sums of parts", "Sums of parts\Sums of parts.csproj", "{012C36CB-EC3D-4377-98E1-633D8BDDF3B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Repeat", "String Repeat\String Repeat.csproj", "{99BC8042-C954-4294-AC2F-F3D6C4BB12DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Repeat", "String Repeat\String Repeat.csproj", "{99BC8042-C954-4294-AC2F-F3D6C4BB12DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeUpperCase", "MakeUpperCase\MakeUpperCase.csproj", "{5879A837-50F2-4D7A-8EE2-3776B5056CEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{99BC8042-C954-4294-AC2F-F3D6C4BB12DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BC8042-C954-4294-AC2F-F3D6C4BB12DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BC8042-C954-4294-AC2F-F3D6C4BB12DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5879A837-50F2-4D7A-8EE2-3776B5056CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5879A837-50F2-4D7A-8EE2-3776B5056CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5879A837-50F2-4D7A-8EE2-3776B5056CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5879A837-50F2-4D7A-8EE2-3776B5056CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
