@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeUpperCase", "MakeUpperC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twice as old", "Twice as old\Twice as old.csproj", "{A3C9B02A-F2B7-4B2B-B6FD-0C4553C34733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a boolean to a string", "Convert a boolean to a string\Convert a boolean to a string.csproj", "{A69FC143-A101-48BA-92C5-2255ED83783A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{A3C9B02A-F2B7-4B2B-B6FD-0C4553C34733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C9B02A-F2B7-4B2B-B6FD-0C4553C34733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C9B02A-F2B7-4B2B-B6FD-0C4553C34733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69FC143-A101-48BA-92C5-2255ED83783A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69FC143-A101-48BA-92C5-2255ED83783A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69FC143-A101-48BA-92C5-2255ED83783A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69FC143-A101-48BA-92C5-2255ED83783A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
