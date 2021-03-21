@@ -105,6 +105,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a boolean to a stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter out the geese", "Filter out the geese\Filter out the geese.csproj", "{614FEF42-7A87-4E4C-84D3-B0B0A25CDCD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lario and Muigi pipe problem", "Lario and Muigi pipe problem\Lario and Muigi pipe problem.csproj", "{784E40A2-8A06-4FDC-BC33-0456392C9D10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{614FEF42-7A87-4E4C-84D3-B0B0A25CDCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614FEF42-7A87-4E4C-84D3-B0B0A25CDCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614FEF42-7A87-4E4C-84D3-B0B0A25CDCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784E40A2-8A06-4FDC-BC33-0456392C9D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784E40A2-8A06-4FDC-BC33-0456392C9D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784E40A2-8A06-4FDC-BC33-0456392C9D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784E40A2-8A06-4FDC-BC33-0456392C9D10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
