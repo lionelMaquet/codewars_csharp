@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest unused ID", "Small
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Sequence", "Reversed Sequence\Reversed Sequence.csproj", "{95794C9C-8982-4DD6-B3DC-147D4A4B56A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringy String", "Stringy String\Stringy String.csproj", "{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{95794C9C-8982-4DD6-B3DC-147D4A4B56A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95794C9C-8982-4DD6-B3DC-147D4A4B56A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95794C9C-8982-4DD6-B3DC-147D4A4B56A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
