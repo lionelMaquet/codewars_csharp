@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove String Spaces", "Rem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the smallest integer in the array", "Find the smallest integer in the array\Find the smallest integer in the array.csproj", "{DA652663-829C-48C0-A3FF-BE682E974683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is there a vowel in there", "Is there a vowel in there\Is there a vowel in there.csproj", "{FE79EF7D-7549-4B68-A3D2-D00283241C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{DA652663-829C-48C0-A3FF-BE682E974683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA652663-829C-48C0-A3FF-BE682E974683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA652663-829C-48C0-A3FF-BE682E974683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

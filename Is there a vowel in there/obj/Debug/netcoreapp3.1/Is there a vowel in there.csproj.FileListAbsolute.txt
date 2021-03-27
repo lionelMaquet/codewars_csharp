@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.exe
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.deps.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.runtimeconfig.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.runtimeconfig.dev.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\bin\Debug\netcoreapp3.1\Is there a vowel in there.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.AssemblyInfo.cs
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\Is there a vowel in there\obj\Debug\netcoreapp3.1\Is there a vowel in there.genruntimeconfig.cache
