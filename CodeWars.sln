@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the smallest integer i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is there a vowel in there", "Is there a vowel in there\Is there a vowel in there.csproj", "{FE79EF7D-7549-4B68-A3D2-D00283241C55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is this my tail", "Is this my tail\Is this my tail.csproj", "{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE79EF7D-7549-4B68-A3D2-D00283241C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
