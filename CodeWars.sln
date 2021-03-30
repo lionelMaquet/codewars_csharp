@@ -113,15 +113,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Sequence", "Revers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringy String", "Stringy String\Stringy String.csproj", "{1E357A06-1B7B-4E42-8630-2CEBDEF7404D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove String Spaces", "Remove String Spaces\Remove String Spaces.csproj", "{4C883CE6-A90E-4D99-B8A9-FBDD381080F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove String Spaces", "Remove String Spaces\Remove String Spaces.csproj", "{4C883CE6-A90E-4D99-B8A9-FBDD381080F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the smallest integer in the array", "Find the smallest integer in the array\Find the smallest integer in the array.csproj", "{DA652663-829C-48C0-A3FF-BE682E974683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the smallest integer in the array", "Find the smallest integer in the array\Find the smallest integer in the array.csproj", "{DA652663-829C-48C0-A3FF-BE682E974683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is there a vowel in there", "Is there a vowel in there\Is there a vowel in there.csproj", "{FE79EF7D-7549-4B68-A3D2-D00283241C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is there a vowel in there", "Is there a vowel in there\Is there a vowel in there.csproj", "{FE79EF7D-7549-4B68-A3D2-D00283241C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is this my tail", "Is this my tail\Is this my tail.csproj", "{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is this my tail", "Is this my tail\Is this my tail.csproj", "{BE5B2EF1-BEE8-4A66-954B-B889E4B032AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove exclamation marks", "Remove exclamation marks\Remove exclamation marks.csproj", "{3C250795-7E12-43D2-82EE-273E10D0B7D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove exclamation marks", "Remove exclamation marks\Remove exclamation marks.csproj", "{3C250795-7E12-43D2-82EE-273E10D0B7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting sheep", "Counting sheep\Counting sheep.csproj", "{1314163E-00FB-4116-941F-8B36745EE99E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +371,10 @@ Global
 		{3C250795-7E12-43D2-82EE-273E10D0B7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C250795-7E12-43D2-82EE-273E10D0B7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C250795-7E12-43D2-82EE-273E10D0B7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1314163E-00FB-4116-941F-8B36745EE99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1314163E-00FB-4116-941F-8B36745EE99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1314163E-00FB-4116-941F-8B36745EE99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1314163E-00FB-4116-941F-8B36745EE99E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
