@@ -125,6 +125,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove exclamation marks", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting sheep", "Counting sheep\Counting sheep.csproj", "{1314163E-00FB-4116-941F-8B36745EE99E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat years Dog years", "Cat years Dog years\Cat years Dog years.csproj", "{56B9E968-CD13-44CF-99F8-94216868F062}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{1314163E-00FB-4116-941F-8B36745EE99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1314163E-00FB-4116-941F-8B36745EE99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1314163E-00FB-4116-941F-8B36745EE99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B9E968-CD13-44CF-99F8-94216868F062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B9E968-CD13-44CF-99F8-94216868F062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B9E968-CD13-44CF-99F8-94216868F062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B9E968-CD13-44CF-99F8-94216868F062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
