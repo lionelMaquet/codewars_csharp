@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting sheep", "Counting 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat years Dog years", "Cat years Dog years\Cat years Dog years.csproj", "{56B9E968-CD13-44CF-99F8-94216868F062}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace all dots", "Replace all dots\Replace all dots.csproj", "{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{56B9E968-CD13-44CF-99F8-94216868F062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56B9E968-CD13-44CF-99F8-94216868F062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56B9E968-CD13-44CF-99F8-94216868F062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
