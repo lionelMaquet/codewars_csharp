@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The wide mouthed frog", "Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA to RNA conversion", "DNA to RNA conversion\DNA to RNA conversion.csproj", "{DDA2D262-C2CE-40A0-BB22-479128C5AE91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning Strings", "Returning Strings\Returning Strings.csproj", "{6921E147-A70E-496A-A87B-2F372A0DEB62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{DDA2D262-C2CE-40A0-BB22-479128C5AE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA2D262-C2CE-40A0-BB22-479128C5AE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA2D262-C2CE-40A0-BB22-479128C5AE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
