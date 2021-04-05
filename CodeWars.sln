@@ -123,17 +123,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is this my tail", "Is this 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove exclamation marks", "Remove exclamation marks\Remove exclamation marks.csproj", "{3C250795-7E12-43D2-82EE-273E10D0B7D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting sheep", "Counting sheep\Counting sheep.csproj", "{1314163E-00FB-4116-941F-8B36745EE99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting sheep", "Counting sheep\Counting sheep.csproj", "{1314163E-00FB-4116-941F-8B36745EE99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat years Dog years", "Cat years Dog years\Cat years Dog years.csproj", "{56B9E968-CD13-44CF-99F8-94216868F062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cat years Dog years", "Cat years Dog years\Cat years Dog years.csproj", "{56B9E968-CD13-44CF-99F8-94216868F062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace all dots", "Replace all dots\Replace all dots.csproj", "{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Replace all dots", "Replace all dots\Replace all dots.csproj", "{08A2B08A-7C5D-4A8C-9298-39D3F667C7A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The wide mouthed frog", "The wide mouthed frog\The wide mouthed frog.csproj", "{8BF48F74-1860-4F9C-A638-4BB49293CFCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The wide mouthed frog", "The wide mouthed frog\The wide mouthed frog.csproj", "{8BF48F74-1860-4F9C-A638-4BB49293CFCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA to RNA conversion", "DNA to RNA conversion\DNA to RNA conversion.csproj", "{DDA2D262-C2CE-40A0-BB22-479128C5AE91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNA to RNA conversion", "DNA to RNA conversion\DNA to RNA conversion.csproj", "{DDA2D262-C2CE-40A0-BB22-479128C5AE91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning Strings", "Returning Strings\Returning Strings.csproj", "{6921E147-A70E-496A-A87B-2F372A0DEB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Returning Strings", "Returning Strings\Returning Strings.csproj", "{6921E147-A70E-496A-A87B-2F372A0DEB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate range of integers", "Generate range of integers\Generate range of integers.csproj", "{D3F0DDDF-638D-4C0D-80B9-20C994E75829}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6921E147-A70E-496A-A87B-2F372A0DEB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F0DDDF-638D-4C0D-80B9-20C994E75829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F0DDDF-638D-4C0D-80B9-20C994E75829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F0DDDF-638D-4C0D-80B9-20C994E75829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F0DDDF-638D-4C0D-80B9-20C994E75829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

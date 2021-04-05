@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.AssemblyInfo.cs
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.exe
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.deps.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.runtimeconfig.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.runtimeconfig.dev.json
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.dll
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.pdb
+C:\Users\lione\Desktop\Side Projects\CodeWars\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.genruntimeconfig.cache
