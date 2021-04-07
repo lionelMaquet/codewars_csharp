@@ -139,6 +139,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generate range of integers"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What is between", "What is between\What is between.csproj", "{8AAB735F-F183-4CBC-9998-A05B52962C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get the mean of an array", "Get the mean of an array\Get the mean of an array.csproj", "{26682915-C95F-48CD-A158-90B3AE1678D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{8AAB735F-F183-4CBC-9998-A05B52962C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AAB735F-F183-4CBC-9998-A05B52962C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AAB735F-F183-4CBC-9998-A05B52962C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26682915-C95F-48CD-A158-90B3AE1678D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26682915-C95F-48CD-A158-90B3AE1678D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26682915-C95F-48CD-A158-90B3AE1678D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26682915-C95F-48CD-A158-90B3AE1678D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
