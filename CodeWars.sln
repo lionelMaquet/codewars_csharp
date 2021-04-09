@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get the mean of an array", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are arrow functions odd", "Are arrow functions odd\Are arrow functions odd.csproj", "{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the position", "Find the position\Find the position.csproj", "{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
