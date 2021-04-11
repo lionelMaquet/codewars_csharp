@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the position", "Find t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take the derivative", "Take the derivative\Take the derivative.csproj", "{3CA58071-2EF4-4509-8293-4F4C4A1665ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep hydrated", "Keep hydrated\Keep hydrated.csproj", "{E80E1C5B-1915-4498-83F6-09CA636B5E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{3CA58071-2EF4-4509-8293-4F4C4A1665ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA58071-2EF4-4509-8293-4F4C4A1665ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA58071-2EF4-4509-8293-4F4C4A1665ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80E1C5B-1915-4498-83F6-09CA636B5E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80E1C5B-1915-4498-83F6-09CA636B5E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80E1C5B-1915-4498-83F6-09CA636B5E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80E1C5B-1915-4498-83F6-09CA636B5E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
