@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>I_love_you__a_little___a_lot__passionately_not_at_all</RootNamespace>
+  </PropertyGroup>
+
+</Project>

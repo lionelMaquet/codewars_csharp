@@ -137,19 +137,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Returning Strings", "Return
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generate range of integers", "Generate range of integers\Generate range of integers.csproj", "{D3F0DDDF-638D-4C0D-80B9-20C994E75829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What is between", "What is between\What is between.csproj", "{8AAB735F-F183-4CBC-9998-A05B52962C5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "What is between", "What is between\What is between.csproj", "{8AAB735F-F183-4CBC-9998-A05B52962C5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get the mean of an array", "Get the mean of an array\Get the mean of an array.csproj", "{26682915-C95F-48CD-A158-90B3AE1678D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get the mean of an array", "Get the mean of an array\Get the mean of an array.csproj", "{26682915-C95F-48CD-A158-90B3AE1678D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are arrow functions odd", "Are arrow functions odd\Are arrow functions odd.csproj", "{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Are arrow functions odd", "Are arrow functions odd\Are arrow functions odd.csproj", "{A7DCC839-6A81-4E0B-B592-C60AEFB23C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the position", "Find the position\Find the position.csproj", "{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the position", "Find the position\Find the position.csproj", "{B86846C1-82CA-42DE-AE6A-D81E3F7D5C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take the derivative", "Take the derivative\Take the derivative.csproj", "{3CA58071-2EF4-4509-8293-4F4C4A1665ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take the derivative", "Take the derivative\Take the derivative.csproj", "{3CA58071-2EF4-4509-8293-4F4C4A1665ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep hydrated", "Keep hydrated\Keep hydrated.csproj", "{E80E1C5B-1915-4498-83F6-09CA636B5E1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keep hydrated", "Keep hydrated\Keep hydrated.csproj", "{E80E1C5B-1915-4498-83F6-09CA636B5E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array plus array", "Array plus array\Array plus array.csproj", "{1B48C9E9-A33C-483E-9533-4BB0F779ADC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array plus array", "Array plus array\Array plus array.csproj", "{1B48C9E9-A33C-483E-9533-4BB0F779ADC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I love you, a little , a lot, passionately not at all", "I love you, a little , a lot, passionately not at all\I love you, a little , a lot, passionately not at all.csproj", "{5FE5E2D9-FF70-4D9B-8BD2-03EBEE26C656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -453,6 +455,10 @@ Global
 		{1B48C9E9-A33C-483E-9533-4BB0F779ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B48C9E9-A33C-483E-9533-4BB0F779ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B48C9E9-A33C-483E-9533-4BB0F779ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE5E2D9-FF70-4D9B-8BD2-03EBEE26C656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE5E2D9-FF70-4D9B-8BD2-03EBEE26C656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE5E2D9-FF70-4D9B-8BD2-03EBEE26C656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE5E2D9-FF70-4D9B-8BD2-03EBEE26C656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
