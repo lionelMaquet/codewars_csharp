@@ -6,7 +6,6 @@ namespace Keep_up_the_hoop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
 
         public static string HoopCount(int n)
