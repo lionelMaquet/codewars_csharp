@@ -157,7 +157,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Can we divide it", "Can we 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abbreviate a two word name", "Abbreviate a two word name\Abbreviate a two word name.csproj", "{32BD9812-9B17-44F6-A03B-568100C158A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep up the hoop", "Keep up the hoop\Keep up the hoop.csproj", "{2E39FDE2-63BB-46EE-A446-AB92C73FEEAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keep up the hoop", "Keep up the hoop\Keep up the hoop.csproj", "{2E39FDE2-63BB-46EE-A446-AB92C73FEEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove first and last character", "Remove first and last character\Remove first and last character.csproj", "{2304B8CE-3D95-47FB-9395-7482F046A342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -477,6 +479,10 @@ Global
 		{2E39FDE2-63BB-46EE-A446-AB92C73FEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E39FDE2-63BB-46EE-A446-AB92C73FEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E39FDE2-63BB-46EE-A446-AB92C73FEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2304B8CE-3D95-47FB-9395-7482F046A342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2304B8CE-3D95-47FB-9395-7482F046A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2304B8CE-3D95-47FB-9395-7482F046A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2304B8CE-3D95-47FB-9395-7482F046A342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
