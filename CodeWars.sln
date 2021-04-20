@@ -161,6 +161,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keep up the hoop", "Keep up
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove first and last character", "Remove first and last character\Remove first and last character.csproj", "{2304B8CE-3D95-47FB-9395-7482F046A342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price of mangoes", "Price of mangoes\Price of mangoes.csproj", "{0531DD38-25A1-4553-A6DE-4DF60673B997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{2304B8CE-3D95-47FB-9395-7482F046A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2304B8CE-3D95-47FB-9395-7482F046A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2304B8CE-3D95-47FB-9395-7482F046A342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
