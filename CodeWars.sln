@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove first and last chara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price of mangoes", "Price of mangoes\Price of mangoes.csproj", "{0531DD38-25A1-4553-A6DE-4DF60673B997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a string to an array", "Convert a string to an array\Convert a string to an array.csproj", "{174ADA11-1CE2-4489-952C-31689D633333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,10 @@ Global
 		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0531DD38-25A1-4553-A6DE-4DF60673B997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174ADA11-1CE2-4489-952C-31689D633333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174ADA11-1CE2-4489-952C-31689D633333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174ADA11-1CE2-4489-952C-31689D633333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174ADA11-1CE2-4489-952C-31689D633333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
