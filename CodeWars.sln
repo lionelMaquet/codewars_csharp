@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch it up", "Switch it u
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are you playing banjo", "Are you playing banjo\Are you playing banjo.csproj", "{430D4233-899D-4AF0-8B95-69F2A6C08B58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area or perimeter", "Area or perimeter\Area or perimeter.csproj", "{564C6F86-A04E-41CD-A8E0-8A922C2328C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -513,6 +515,10 @@ Global
 		{430D4233-899D-4AF0-8B95-69F2A6C08B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{430D4233-899D-4AF0-8B95-69F2A6C08B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{430D4233-899D-4AF0-8B95-69F2A6C08B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564C6F86-A04E-41CD-A8E0-8A922C2328C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564C6F86-A04E-41CD-A8E0-8A922C2328C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564C6F86-A04E-41CD-A8E0-8A922C2328C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564C6F86-A04E-41CD-A8E0-8A922C2328C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
