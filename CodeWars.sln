@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area or perimeter", "Area o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is n divisible by x and y", "Is n divisible by x and y\Is n divisible by x and y.csproj", "{31BE4180-070D-406F-AC92-6B1FBFBA076D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a number to a string", "Convert a number to a string\Convert a number to a string.csproj", "{64F8B9EB-919D-4685-8D78-D07575D0AB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -525,6 +527,10 @@ Global
 		{31BE4180-070D-406F-AC92-6B1FBFBA076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BE4180-070D-406F-AC92-6B1FBFBA076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BE4180-070D-406F-AC92-6B1FBFBA076D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F8B9EB-919D-4685-8D78-D07575D0AB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F8B9EB-919D-4685-8D78-D07575D0AB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F8B9EB-919D-4685-8D78-D07575D0AB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F8B9EB-919D-4685-8D78-D07575D0AB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
