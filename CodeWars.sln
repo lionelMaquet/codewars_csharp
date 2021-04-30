@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How many lightsabers do you
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Will there be enough space", "Will there be enough space\Will there be enough space.csproj", "{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do you speak English", "Do you speak English\Do you speak English.csproj", "{03CA988F-8413-4F46-A1DB-F93E266494C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -543,6 +545,10 @@ Global
 		{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
