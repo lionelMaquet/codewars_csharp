@@ -177,11 +177,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is n divisible by x and y",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a number to a string", "Convert a number to a string\Convert a number to a string.csproj", "{64F8B9EB-919D-4685-8D78-D07575D0AB09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How many lightsabers do you own", "How many lightsabers do you own\How many lightsabers do you own.csproj", "{86F436DB-8B7B-4DAA-A81E-8279BD4524AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How many lightsabers do you own", "How many lightsabers do you own\How many lightsabers do you own.csproj", "{86F436DB-8B7B-4DAA-A81E-8279BD4524AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Will there be enough space", "Will there be enough space\Will there be enough space.csproj", "{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Will there be enough space", "Will there be enough space\Will there be enough space.csproj", "{D3DFEDB2-3ED8-4384-AEE4-3399E6E7392A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do you speak English", "Do you speak English\Do you speak English.csproj", "{03CA988F-8413-4F46-A1DB-F93E266494C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do you speak English", "Do you speak English\Do you speak English.csproj", "{03CA988F-8413-4F46-A1DB-F93E266494C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert boolean values to strings Yes or No", "Convert boolean values to strings Yes or No\Convert boolean values to strings Yes or No.csproj", "{7443F4D3-43A5-415F-A941-14B089192D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -549,6 +551,10 @@ Global
 		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03CA988F-8413-4F46-A1DB-F93E266494C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7443F4D3-43A5-415F-A941-14B089192D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7443F4D3-43A5-415F-A941-14B089192D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7443F4D3-43A5-415F-A941-14B089192D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7443F4D3-43A5-415F-A941-14B089192D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
