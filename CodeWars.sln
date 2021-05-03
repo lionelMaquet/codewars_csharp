@@ -183,9 +183,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Will there be enough space"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do you speak English", "Do you speak English\Do you speak English.csproj", "{03CA988F-8413-4F46-A1DB-F93E266494C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert boolean values to strings Yes or No", "Convert boolean values to strings Yes or No\Convert boolean values to strings Yes or No.csproj", "{7443F4D3-43A5-415F-A941-14B089192D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert boolean values to strings Yes or No", "Convert boolean values to strings Yes or No\Convert boolean values to strings Yes or No.csproj", "{7443F4D3-43A5-415F-A941-14B089192D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate average", "Calculate average\Calculate average.csproj", "{27F8FC30-F1C3-4B7C-8D8D-79511C43CC10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculate average", "Calculate average\Calculate average.csproj", "{27F8FC30-F1C3-4B7C-8D8D-79511C43CC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Short long short", "Short long short\Short long short.csproj", "{B9D049BD-202D-497C-BE3C-E940E71A65E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -561,6 +563,10 @@ Global
 		{27F8FC30-F1C3-4B7C-8D8D-79511C43CC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27F8FC30-F1C3-4B7C-8D8D-79511C43CC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27F8FC30-F1C3-4B7C-8D8D-79511C43CC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D049BD-202D-497C-BE3C-E940E71A65E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D049BD-202D-497C-BE3C-E940E71A65E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D049BD-202D-497C-BE3C-E940E71A65E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D049BD-202D-497C-BE3C-E940E71A65E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
