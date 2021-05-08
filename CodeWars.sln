@@ -195,6 +195,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even or Odd", "Even or Odd\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the next perfect square", "Find the next perfect square\Find the next perfect square.csproj", "{AF2F1F9F-BCE7-4CB7-9561-B91F1A3B5514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What's the real floor", "What's the real floor\What's the real floor.csproj", "{0849740F-ECB7-4852-A653-FCDCFA7BB37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whats the real floor", "Whats the real floor\Whats the real floor.csproj", "{4A7FA292-5725-4563-9670-719EE1F7CA36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -585,6 +589,14 @@ Global
 		{AF2F1F9F-BCE7-4CB7-9561-B91F1A3B5514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF2F1F9F-BCE7-4CB7-9561-B91F1A3B5514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF2F1F9F-BCE7-4CB7-9561-B91F1A3B5514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0849740F-ECB7-4852-A653-FCDCFA7BB37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0849740F-ECB7-4852-A653-FCDCFA7BB37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0849740F-ECB7-4852-A653-FCDCFA7BB37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0849740F-ECB7-4852-A653-FCDCFA7BB37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
