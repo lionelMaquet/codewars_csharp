@@ -205,6 +205,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentence Smash", "Sentence 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply the number", "Multiply the number\Multiply the number.csproj", "{24144BAB-91CE-4F25-9E3D-228215808CA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name Shuffler", "Name Shuffler\Name Shuffler.csproj", "{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -615,6 +617,10 @@ Global
 		{24144BAB-91CE-4F25-9E3D-228215808CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24144BAB-91CE-4F25-9E3D-228215808CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24144BAB-91CE-4F25-9E3D-228215808CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
