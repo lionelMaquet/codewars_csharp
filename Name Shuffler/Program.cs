@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace Name_Shuffler
 {
@@ -6,6 +6,7 @@ namespace Name_Shuffler
     {
         static void Main(string[] args)
         {
+
         }
 
         public static string NameShuffler(string str)
