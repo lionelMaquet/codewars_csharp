@@ -199,15 +199,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "What's the real floor", "Wh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Whats the real floor", "Whats the real floor\Whats the real floor.csproj", "{4A7FA292-5725-4563-9670-719EE1F7CA36}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Remove Duplicated", "Simple Remove Duplicated\Simple Remove Duplicated.csproj", "{3463A3E6-0313-4885-9DEB-AE4448E8AF41}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentence Smash", "Sentence Smash\Sentence Smash.csproj", "{A2D899D1-53D4-4141-BBB5-B108ADD84D7F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply the number", "Multiply the number\Multiply the number.csproj", "{24144BAB-91CE-4F25-9E3D-228215808CA1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Name Shuffler", "Name Shuffler\Name Shuffler.csproj", "{FA5D5D43-5001-4B5B-A3C3-0FA3E91A20FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{D20E42C1-CA80-42D7-926D-638695A30A83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{D20E42C1-CA80-42D7-926D-638695A30A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How good are you really", "How good are you really\How good are you really.csproj", "{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -607,10 +607,6 @@ Global
 		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A7FA292-5725-4563-9670-719EE1F7CA36}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3463A3E6-0313-4885-9DEB-AE4448E8AF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3463A3E6-0313-4885-9DEB-AE4448E8AF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3463A3E6-0313-4885-9DEB-AE4448E8AF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3463A3E6-0313-4885-9DEB-AE4448E8AF41}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A2D899D1-53D4-4141-BBB5-B108ADD84D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2D899D1-53D4-4141-BBB5-B108ADD84D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D899D1-53D4-4141-BBB5-B108ADD84D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -627,6 +623,10 @@ Global
 		{D20E42C1-CA80-42D7-926D-638695A30A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D20E42C1-CA80-42D7-926D-638695A30A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D20E42C1-CA80-42D7-926D-638695A30A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
