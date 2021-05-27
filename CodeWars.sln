@@ -209,11 +209,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel Count", "Vowel Count\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How good are you really", "How good are you really\How good are you really.csproj", "{BCA156C6-42EC-4E0B-8207-BD19B1F4432A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the first non consecutive number", "Find the first non consecutive number\Find the first non consecutive number.csproj", "{B9676A45-3BBB-48DE-BCEE-6507ECE92A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the first non consecutive number", "Find the first non consecutive number\Find the first non consecutive number.csproj", "{B9676A45-3BBB-48DE-BCEE-6507ECE92A81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number to string", "Number to string\Number to string.csproj", "{9CB1FE8C-107B-43F1-9DF9-7180D6F98186}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number to string", "Number to string\Number to string.csproj", "{9CB1FE8C-107B-43F1-9DF9-7180D6F98186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drink About", "Drink About\Drink About.csproj", "{23EBA8B8-4E18-4729-8CFE-1848F10C34D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drink About", "Drink About\Drink About.csproj", "{23EBA8B8-4E18-4729-8CFE-1848F10C34D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powers of 2", "Powers of 2\Powers of 2.csproj", "{4328AF01-A8B4-4D9A-A317-E2A5D4A01B72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -645,6 +647,10 @@ Global
 		{23EBA8B8-4E18-4729-8CFE-1848F10C34D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23EBA8B8-4E18-4729-8CFE-1848F10C34D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23EBA8B8-4E18-4729-8CFE-1848F10C34D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4328AF01-A8B4-4D9A-A317-E2A5D4A01B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4328AF01-A8B4-4D9A-A317-E2A5D4A01B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4328AF01-A8B4-4D9A-A317-E2A5D4A01B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4328AF01-A8B4-4D9A-A317-E2A5D4A01B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
