@@ -71,8 +71,6 @@ namespace Range_Exctraction
                                 }
                                 range.Clear();
                             }
-
-
                             
                         }
                         else
