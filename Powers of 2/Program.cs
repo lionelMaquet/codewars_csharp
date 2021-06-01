@@ -13,12 +13,10 @@ namespace Powers_of_2
         public static BigInteger[] PowersOfTwo(int n)
         {
             List<BigInteger> powers = new List<BigInteger>();
-
             for (int i = 0; i <= n; i++)
             {
                 powers.Add((BigInteger)Math.Pow(2, i));
             }
-            
             return powers.ToArray();
         }
     }
