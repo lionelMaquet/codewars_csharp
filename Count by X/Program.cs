@@ -12,9 +12,7 @@ namespace Count_by_X
         public static int[] CountBy(int x, int n)
         {
             List<int> ints = new List<int>();
-
             int i = x;
-
             while(ints.Count != n)
             {
                 if (i % x == 0)
@@ -23,7 +21,6 @@ namespace Count_by_X
                 }
                 i++;
             }
-
             return ints.ToArray();
         }
     }
